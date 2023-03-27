@@ -1,0 +1,15 @@
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.csproj.AssemblyReference.cache
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.AssemblyInfoInputs.cache
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.AssemblyInfo.cs
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.csproj.CoreCompileInputs.cache
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/bin/Debug/net8.0/firstDNProject
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/bin/Debug/net8.0/firstDNProject.deps.json
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/bin/Debug/net8.0/firstDNProject.runtimeconfig.json
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/bin/Debug/net8.0/firstDNProject.dll
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/bin/Debug/net8.0/firstDNProject.pdb
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.dll
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/refint/firstDNProject.dll
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.pdb
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/firstDNProject.genruntimeconfig.cache
+/Users/snehau/Documents/Projects/dotnet/firstDNProject/obj/Debug/net8.0/ref/firstDNProject.dll
