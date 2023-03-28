@@ -8,12 +8,11 @@ namespace firstDNProject
 
         public static void Main(String[] args)
         {
-            // Vehicle bmw1 = new Vehicle("BMW", "2023"); not allowed since vehicle is an abstract class
-            // bmw1.Honk();
-            Car bmw2 = new Car("BMW", "2023");
-            bmw2.Honk();//Buut, Buut!
-            bmw2.move();
+            whatsapp whatsapp1 =new whatsapp();
+            whatsapp1.sendMessage();//Sending whatsapp message
 
+            IChatSystem whatsapp=new whatsapp();
+            whatsapp.sendMessage();//Sending whatsapp message
         }
     }
 }
