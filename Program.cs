@@ -7,12 +7,20 @@ namespace firstDNProject
     {
         public static void Main(String[] args)
         {
-            String youtubeLink =@"c:\\program\\my.txt";//verbatim literals
-            Console.WriteLine(youtubeLink);
-            String y="c:\\program\\my.txt";//escape sequence or char
-            Console.WriteLine(y);
+           // arrays
+           int [] nums={1,2,3,4,5};
+           Console.WriteLine(nums[1]);
+           nums[2]=300;
+            Console.WriteLine(nums[2]);
+                        Console.WriteLine(nums.Min());
 
-            //.length,toupper,lower...
+
+
+            //2d array
+            int[,] nums2d={{1,2},{3,4}};
+            Console.WriteLine(nums2d[1,0]);//3
+            Console.WriteLine(nums2d.Length);//4
+            
 
 
         }
