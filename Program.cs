@@ -7,15 +7,15 @@ namespace firstDNProject
     {
         public static void Main(String[] args)
         {
-            Console.WriteLine("enter your name:");
-            String name=Console.ReadLine();
-                        Console.WriteLine("hello "+name);//concatenation
-                        Console.WriteLine("hello {0}",name);//COMPOSITE FORMATTING
-                        Console.WriteLine($"hello {name}");//string interpolation
+            String youtubeLink =@"c:\\program\\my.txt";//verbatim literals
+            Console.WriteLine(youtubeLink);
+            String y="c:\\program\\my.txt";//escape sequence or char
+            Console.WriteLine(y);
 
-                        Console.ReadKey();
+            //.length,toupper,lower...
+
 
         }
-    } ̰
+    }
 }
 
