@@ -4,14 +4,21 @@ using System;
 namespace firstDNProject
 {
     class myClass
-    {
+    {//methods
+        static void MyMethod()
+        {
+            Console.WriteLine("I just got executed!");
+        }
+        static int greatest(int num1, int num2)
+        {
+            return num1 > num2 ? num1 : num2;
+        }
         public static void Main(String[] args)
         {
-            //dictionaries
-            Dictionary<String,long> phoneBook=new Dictionary<String,long>();
-            phoneBook.Add("Steve",9458693057);
-            phoneBook["Paul"]=98273853496;
-            Console.WriteLine(phoneBook.Count);
+            MyMethod();
+            int big = greatest(40, 45);
+            Console.WriteLine(big);
+
         }
     }
 }
