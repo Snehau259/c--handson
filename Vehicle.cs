@@ -1,5 +1,6 @@
-class Vehicle  // base class (parent) 
+abstract class Vehicle  // base class (parent) 
 {
+    public abstract void move();
     public string Brand { get; set; }
 
     public Vehicle(string brand)

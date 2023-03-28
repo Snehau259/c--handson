@@ -12,5 +12,10 @@ class Car : Vehicle  // derived class (child)
     {
         Console.WriteLine("Buut, Buut!");
     }
+
+    public override void move()
+    {
+        Console.WriteLine("Cars move");
+    }
 }
 
