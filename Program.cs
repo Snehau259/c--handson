@@ -4,12 +4,14 @@ using System;
 namespace firstDNProject
 {
     class myClass
-    {//methods
-       
+    {
+
         public static void Main(String[] args)
         {
-           Fruit apple=new Fruit("red");
-           apple.displayColor();
+            Vehicle bmw1 = new Car("BMW", "2023");
+            bmw1.Honk();//Tuut, tuut!
+            Car bmw2 = new Car("BMW", "2023");
+            bmw2.Honk();//Buut, Buut!
 
         }
     }
