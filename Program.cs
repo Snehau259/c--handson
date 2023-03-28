@@ -8,11 +8,12 @@ namespace firstDNProject
 
         public static void Main(String[] args)
         {
-            whatsapp whatsapp1 =new whatsapp();
-            whatsapp1.sendMessage();//Sending whatsapp message
+            Console.WriteLine(Color.Blue);
+            Console.WriteLine((int)Color.Blue);
+            Console.WriteLine((int)Color.Red);
+            Console.WriteLine((int)Color.Green);
 
-            IChatSystem whatsapp=new whatsapp();
-            whatsapp.sendMessage();//Sending whatsapp message
+
         }
     }
 }
