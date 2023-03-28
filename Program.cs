@@ -7,7 +7,7 @@ namespace firstDNProject
     {
         public static void Main(String[] args)
         {
-           // arrays
+           // arrays-no of elements is fixed
            int [] nums={1,2,3,4,5};
            Console.WriteLine(nums[1]);
            nums[2]=300;
