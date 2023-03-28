@@ -7,7 +7,7 @@ class Vehicle  // base class (parent)
         this.Brand = brand;
     }
 
-    public void Honk()
+    public virtual void Honk()
     {
         Console.WriteLine("Tuut, tuut!");
     }

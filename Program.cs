@@ -9,7 +9,7 @@ namespace firstDNProject
         public static void Main(String[] args)
         {
             Vehicle bmw1 = new Car("BMW", "2023");
-            bmw1.Honk();//Tuut, tuut!
+            bmw1.Honk();//  Buut, tuut!
             Car bmw2 = new Car("BMW", "2023");
             bmw2.Honk();//Buut, Buut!
 
