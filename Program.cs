@@ -8,10 +8,14 @@ namespace firstDNProject
 
         public static void Main(String[] args)
         {
-            Console.WriteLine(Color.Blue);
-            Console.WriteLine((int)Color.Blue);
-            Console.WriteLine((int)Color.Red);
-            Console.WriteLine((int)Color.Green);
+            GenericDatabase<String> GDB = new GenericDatabase<string>();
+            GDB.Create("sNEHA");
+            GDB.Create("abcd");
+            GDB.Create("xyza");
+            GDB.display();
+            GDB.Delete("abcd");
+            GDB.display();
+
 
 
         }
